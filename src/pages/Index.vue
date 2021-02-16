@@ -113,7 +113,7 @@ query($page: Int) {
 import { Pager } from "gridsome";
 export default {
 	metaInfo: {
-		title: "Hello, world!",
+		title: "forestry",
 	},
 	name: "HomePage",
 	components: {
